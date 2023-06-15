@@ -1,4 +1,5 @@
 Sailor - Bootstrap Business Template
+https://soumyamohanty96.github.io/Sailor/
 Sailor is a stylish, responsive, and easy-to-use business Bootstrap template. It comes with many features and is designed for many websites, such as corporate business, portfolios, product showcases, creative agencies, business consultants, website design, mobile development companies, etc.
 
 The Sailor website template is built with the latest Bootstrap version. It works perfectly on any device and screen size.
